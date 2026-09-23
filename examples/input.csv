@@ -1,0 +1,9 @@
+source,target,weight,interaction_type
+IL17A,IL17RA,0.91,signaling
+IL17RA,TRAF3IP2,0.82,signaling
+TRAF3IP2,NFKB1,0.76,activation
+NFKB1,CXCL8,0.69,transcription
+IL17A,CXCL8,0.51,coexpression
+CXCL8,CXCR1,0.73,receptor
+NFKB1,RELA,0.88,complex
+RELA,TNF,0.64,transcription

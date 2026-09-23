@@ -1,0 +1,21 @@
+{
+  "workflow": "network_analysis",
+  "title": "Biological network analysis",
+  "run_time_utc": "2026-09-03T00:00:00+00:00",
+  "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "input": "examples\\input.csv",
+  "input_sha256": "1fe06627291eb7ef3b16afc84c6de885e4c58b15ab3db9ec042dc4eded95f7fa",
+  "config": "config\\workflow.json",
+  "config_sha256": "f0e9c513eb45eef62d3d4673fd910c80a01818c74e1936c593ac1075609094ce",
+  "result": "expected\\results.csv",
+  "result_sha256": "ee9e1ec3fdbff58c7c2dbfb3a92f60a13dabf62afd45e5cbe2108d5929624df8",
+  "row_count": 8,
+  "palette": {
+    "reference": "#1F77B4",
+    "active": "#D62728",
+    "positive": "#009E73",
+    "warning": "#D55E00",
+    "neutral": "#9AA5AA"
+  }
+}

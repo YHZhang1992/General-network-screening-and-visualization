@@ -1,0 +1,9 @@
+node,degree,weighted_degree,hub_rank,interaction_types
+NFKB1,3,2.33,1,activation;complex;transcription
+CXCL8,3,1.93,2,coexpression;receptor;transcription
+IL17RA,2,1.73,3,signaling
+TRAF3IP2,2,1.58,4,activation;signaling
+RELA,2,1.52,5,complex;transcription
+IL17A,2,1.42,6,coexpression;signaling
+CXCR1,1,0.73,7,receptor
+TNF,1,0.64,8,transcription
